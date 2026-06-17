@@ -42,6 +42,7 @@ The rolling 12-month revenue uses DATESINPERIOD. YoY growth uses SAMEPERIODLASTY
 **Key Metrics:** Total Revenue · Gross Profit · EBITDA · Net Income · Gross Margin % · EBITDA Margin % · Net Margin % · ROE · ROA · ROIC
 
 **Visuals:** Revenue trend line · Revenue by sector column chart · Gross profit by company bar chart · EBITDA trend · Revenue by region donut
+<img width="1286" height="726" alt="image" src="https://github.com/user-attachments/assets/e7ee7bff-c25c-4826-88ed-4a11e64650fa" />
 
 ---
 
@@ -53,6 +54,7 @@ Ten-year financial statement explorer. The DuPont decomposition — Net Margin �
 **Key Metrics:** Revenue · Gross Profit · EBIT · Net Income · Total Debt · Total Equity · Cash · Debt-to-Equity · Current Ratio · Quick Ratio
 
 **Visuals:** Revenue vs COGS by year · EBITDA by company · Net income trend · Debt by company · Assets by sector donut
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/186fc52c-58bf-44fb-a450-542b9317cf39" />
 
 ---
 
@@ -65,6 +67,7 @@ Bloomberg-style market data terminal. MA20, MA50, MA200 calculated with DATESINP
 **Key Metrics:** Latest Price · Total Market Cap · Total Volume · 52W High · 52W Low · Avg Daily Return · 30D Volatility %
 
 **Visuals:** Price trend with moving averages · Market cap by sector · Volume area chart · Return by sector · Market cap by exchange donut
+<img width="1371" height="785" alt="image" src="https://github.com/user-attachments/assets/90424406-9672-45d0-a303-914da7e44516" />
 
 ---
 
@@ -76,6 +79,7 @@ Full CFA-compliant risk analytics. Sharpe Ratio = (Return − Rf) / σ. Sortino 
 **Key Metrics:** Total Portfolio Value · Avg Daily Return · Avg Beta · Avg Std Dev · Benchmark Return · Sharpe Ratio · Sortino Ratio · Information Ratio · Alpha
 
 **Visuals:** Portfolio return trend · Sector allocation donut · Portfolio value area · Beta by sector · Return by sector bar
+<img width="1355" height="776" alt="image" src="https://github.com/user-attachments/assets/6d12a0a8-8691-4d2b-a4df-4d20f0e93e51" />
 
 ---
 
@@ -88,6 +92,7 @@ Risk tier classification: Green (<1% PD) · Amber (<5%) · Red (<15%) · Critica
 **Key Metrics:** Total EAD · Avg PD · Avg LGD · Collateral Value · Expected Loss · NPL Ratio · Coverage Ratio · Unexpected Loss
 
 **Visuals:** EAD by rating bar · Avg PD by sector · Exposure by sector donut · Collateral by rating · EAD by tenor · Exposure by tenor donut
+<img width="1337" height="768" alt="image" src="https://github.com/user-attachments/assets/2fd973cf-1bcd-474f-ad31-c57bb76b0ea4" />
 
 ---
 
@@ -100,6 +105,7 @@ Benford deviation · 3-sigma amount threshold · Duplicate payment flag · Round
 **Key Metrics:** Total Transactions · Total Amount · Avg Fraud Score · Flagged Transaction Count · Off-Hours % · Benford Deviation Index
 
 **Visuals:** Amount by flag reason · Fraud score by reason · Transaction trend · Amount by hour of day · Amount mix donut
+<img width="1334" height="750" alt="image" src="https://github.com/user-attachments/assets/09614889-8add-43cf-b7aa-5575d0de22d6" />
 
 ---
 
@@ -111,6 +117,7 @@ Full budget-actual-forecast triangle. Variance Status uses SWITCH(TRUE()) for dy
 **Key Metrics:** Budget · Actual · Forecast · Variance $ · Variance % · Forecast Accuracy % · Budget Attainment % · Full Year Forecast
 
 **Visuals:** Budget vs actual by department · Actual by cost centre · Budget trend · Actual vs forecast trend · Spend by department donut
+<img width="1348" height="778" alt="image" src="https://github.com/user-attachments/assets/2bcfe9f9-6710-4cc4-b8f5-d8dcdb30cd6e" />
 
 ---
 
@@ -123,6 +130,7 @@ NSFR = ASF / RSF ≥ 100%. FX exposure net long/short by currency.
 **Key Metrics:** Total Cash · FX Long · FX Short · HQLA · Net Cash Outflows 30D · LCR % · NSFR % · LCR Status
 
 **Visuals:** Cash balance trend · FX exposure by currency · HQLA area trend · Cash by currency · FX mix donut
+<img width="944" height="533" alt="image" src="https://github.com/user-attachments/assets/498cbbd6-87b6-4ca3-a607-4c9e05c20923" />
 
 ---
 
@@ -136,6 +144,7 @@ Carbon intensity YoY uses SAMEPERIODLASTYEAR.
 **Key Metrics:** Avg E Score · Avg S Score · Avg G Score · ESG Composite Score · ESG Rating Band · Avg Carbon Intensity · Carbon YoY Change % · Board Diversity %
 
 **Visuals:** E score by company · S score by company · Carbon intensity by company · G score by company · ESG by sector donut
+<img width="1334" height="759" alt="image" src="https://github.com/user-attachments/assets/f838ce0f-6eef-4a31-9bf1-b404d9899d5c" />
 
 ---
 
@@ -148,6 +157,7 @@ Real Policy Rate = Nominal Rate − Inflation (Fisher equation proxy).
 **Key Metrics:** Avg GDP Growth · Avg Inflation · Avg Policy Rate · Real Policy Rate · Avg Unemployment · Avg USD Index · Avg VIX
 
 **Visuals:** GDP growth trend · Inflation by country · Policy rate trend area · Unemployment by country · VIX by country
+<img width="1339" height="766" alt="image" src="https://github.com/user-attachments/assets/0b26bcb8-0701-4f39-87c1-058a47498c89" />
 
 ---
 
@@ -160,6 +170,7 @@ Equity Multiplier feeds the DuPont ROE chain. Working Capital = Current Assets �
 **Key Metrics:** Total Assets · Total Equity · Total Debt · Cash · Current Assets · Current Liabilities · Working Capital · Debt-to-Equity · Net Debt to EBITDA
 
 **Visuals:** Total assets trend · Debt by company · Equity by company · Cash trend area · Assets by company donut
+<img width="1352" height="765" alt="image" src="https://github.com/user-attachments/assets/b3649122-d20c-4329-aa4d-524bd4befe13" />
 
 ---
 
@@ -173,6 +184,7 @@ Three-row layout: Revenue & Portfolio | Credit & Treasury | P&L & FP&A & ESG.
 **Key Metrics:** All 9 fact table KPIs on a single page
 
 **Visuals:** 3 × 3 grid of the most important chart from each analytical domain with 7 KPI cards at the top
+<img width="1333" height="766" alt="image" src="https://github.com/user-attachments/assets/e0d7a401-d791-4eae-9357-b22dd574929b" />
 
 ---
 
